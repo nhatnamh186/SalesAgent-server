@@ -1,0 +1,14 @@
+.env
+.venv
+credentials.json
+token.json
+factories_to_target.csv
+result.csv
+venv/
+*.csv
+tmp.csv
+__pycache__/
+data/
+*xlsx
+*.png
+*.jpg
